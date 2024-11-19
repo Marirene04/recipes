@@ -4,6 +4,7 @@
 -lime
 -salt
 -cilantro
+-garlic
 
 ##Prices
 -2 EUR
@@ -12,3 +13,4 @@
 -1 EUR
 
 ## Instructions
+-Mix the ingredients

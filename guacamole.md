@@ -4,6 +4,7 @@
 -lime
 -salt
 -cilantro
+-tomato
 
 ##Prices
 -2 EUR
